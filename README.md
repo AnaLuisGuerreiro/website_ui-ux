@@ -28,6 +28,6 @@ This user-friendly platform is designed to captivate and engage visitors with it
 
 ## Tools
 
-/ We used HTML to structure the all project.
-/ For the styles mainly we used Bootstrap, the rest was pure CSS.
-/ Media queries for the responsiveness.
+- We used HTML to structure the all project.
+- For the styles mainly we used Bootstrap, the rest was pure CSS.
+- Media queries for the responsiveness.

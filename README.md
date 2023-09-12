@@ -8,8 +8,9 @@ This user-friendly platform is designed to captivate and engage visitors with it
 - A brief welcome and description;
 - Budget request;
 - Lastest works: visual(image) and description and also a link to see more.
-            #### Budget Request
-                - A form to field and ask for a service budget.
+
+#### Budget Request
+- A form to field and ask for a service budget.
 
 ### Services
 - What the company can do.

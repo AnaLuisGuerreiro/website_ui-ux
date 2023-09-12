@@ -1,0 +1,25 @@
+.servico {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  margin: 15px;
+  border-radius: 15px;
+  padding: 15px;
+  box-shadow: 10px 10px rgba(21, 21, 21, 1);
+  transition: all 500ms ease-in-out;
+}
+.servico p {
+  text-align: justify;
+  margin-top: 30px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.servico:hover {
+  transform: scale(1.01, 1.01) translate(0px, -31px);
+}
+.brand {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  list-style: none;
+}
